@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6945026146",
+    "firebase_url": "https://arubhana-98fc5.firebaseio.com",
+    "project_id": "arubhana-98fc5",
+    "storage_bucket": "arubhana-98fc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6945026146:android:b1a4a0ce9d289984",
+        "android_client_info": {
+          "package_name": "arubhana.codepoet.org.arubhana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6945026146-u3h8jv3ipu8b07nmt4smhin997dm6q97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arubhana.codepoet.org.arubhana",
+            "certificate_hash": "1f46ff316c566dfa7e276fc1ff0951344a526a2f"
+          }
+        },
+        {
+          "client_id": "6945026146-q1q8mogs9ne9iikdvgk41jrupj8g8kml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKZtiIj-5v2SMeMpRPXkAjRIvzsw9EMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6945026146-q1q8mogs9ne9iikdvgk41jrupj8g8kml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
